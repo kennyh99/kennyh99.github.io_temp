@@ -1,6 +1,9 @@
 # Jekyll
-theme: linkhub-jekyll-minima
+theme: minima
 
 # Site Configuration
 name: Kenny Huang
 description: Kenny Huang Portfolio
+author:
+  name: John Smith
+  email: "john.smith@foobar.com"
