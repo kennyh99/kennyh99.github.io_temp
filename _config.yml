@@ -1,10 +1,16 @@
-# Jekyll
-theme: minima
-
 # Site Configuration
+theme: minima
+  skin: dark
+  
 name: Kenny Huang
 description: Kenny Huang Portfolio
+header_pages:
+  - about.md
+  - portfolio.md
+minima:
+  social_links:
+    - { platform: github,  user_url: "https://github.com/kennyh99" }
 author:
-  name: John Smith
-  email: "john.smith@foobar.com"
-exclude: "README.md"
+  name: Kenny Huang
+  email: "kennyh99@gmail.com"
+# exclude: "README.md"
