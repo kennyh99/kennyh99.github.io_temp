@@ -7,3 +7,4 @@ description: Kenny Huang Portfolio
 author:
   name: John Smith
   email: "john.smith@foobar.com"
+exclude: "README.md"
