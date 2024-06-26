@@ -1,13 +1,12 @@
 # Site Configuration
 theme: minima
-  skin: dark
-  
 name: Kenny Huang
 description: Kenny Huang Portfolio
 header_pages:
   - about.md
   - portfolio.md
 minima:
+  skin: dark
   social_links:
     - { platform: github,  user_url: "https://github.com/kennyh99" }
 author:
