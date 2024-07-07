@@ -1,14 +1,13 @@
 # Site Configuration
 theme: minima
 name: Kenny Huang
-description: Kenny Huang Portfolio
+description: © 2024
 header_pages:
+  - home.md
   - about.md
   - portfolio.md
 minima:
   skin: dark
-  social_links:
-    - { platform: github,  user_url: "https://github.com/kennyh99" }
 author:
   name: Kenny Huang
   email: "kennyh99@gmail.com"
