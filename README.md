@@ -1,6 +1,1 @@
----
-layout: default
-title: Profile
-permalink: /default/
----
-
+# [Home](https://kennyh99.github.io/home/)
