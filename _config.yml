@@ -2,13 +2,7 @@
 theme: minima
 name: Kenny Huang
 description: © 2024
-header_pages:
-  - home.md
-  - about.md
-  - portfolio.md
-minima:
-  skin: dark
-author:
-  name: Kenny Huang
-  email: "kennyh99@gmail.com"
-# exclude: "README.md"
+# header_pages:
+#   - home.md
+#   - about.md
+#   - portfolio.md
